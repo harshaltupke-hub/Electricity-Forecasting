@@ -1,30 +1,49 @@
-# Python virtual environments
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
 .venv/
 venv/
 env/
 ENV/
 
-# Python cache
-__pycache__/
-*.py[cod]
-
+# =========================
 # Jupyter
+# =========================
 .ipynb_checkpoints/
 
-# CatBoost generated files
+# =========================
+# Machine Learning / CatBoost
+# =========================
 catboost_info/
 
-# IDE files
+# =========================
+# IDEs / Editors
+# =========================
 .vscode/
 .idea/
 
-# OS files
+# =========================
+# OS generated files
+# =========================
 .DS_Store
 Thumbs.db
 
-# Logs
+# =========================
+# Logs / temporary files
+# =========================
 *.log
-
-# Temporary files
 *.tmp
 *.temp
+
+# =========================
+# Python tooling
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
