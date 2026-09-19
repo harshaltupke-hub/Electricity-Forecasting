@@ -1,0 +1,3 @@
+line_id,from_bus,to_bus,thermal_limit_mw,emergency_limit_mw,reactance_pu,status,data_status
+LINE_TOCUMEN_SANTIAGO,BUS_TOCUMEN,BUS_SANTIAGO,600.0,720.0,0.12,1,synthetic_competition_reference
+LINE_SANTIAGO_DAVID,BUS_SANTIAGO,BUS_DAVID,300.0,360.0,0.1,1,synthetic_competition_reference

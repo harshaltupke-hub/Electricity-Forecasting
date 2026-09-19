@@ -1,0 +1,93 @@
+record_no,company,project,province,district,corregimiento,capacity_mw,commercial_operation_date,status,technology
+1,"Island Power, S.A. (IPSA)","Sistemas  Aislados ( Yavisa, Garachiné, Santa Fé , Boca de Cupe, Jaqué, La Palma, Río Azúcar; Otoque, San Miguel, Chepillo, Saboga, Taboga;Tucutí, Narganá, Yaviza)
+Bocas Power Plant  S.A ( Isla Colón, Bastimento,Carenero y Solarte )",Bocas del Toro; Darién; Panamá; Guna Yala,,,32.42,Operación,Operación,Térmicas 
+2,"Seneca Energy, S.A. ","Palmas Bellas
+","Colón
+","Chagres 
+","Palmas Bellas  
+",1.5,Operación,Operación,Térmicas 
+3,"Seneca Energy, S.A. ","
+Isla Grande ","Colón
+",Portobelo,Isla Grande ,1.5,Operación,Operación,Térmicas 
+4,"Seneca Energy, S.A. ","
+Palenque 
+","Colón
+","Santa Isabel
+","Palenque 
+",2.0,Operación,Operación,Térmicas 
+5,"Celsia Centro América, S.A.",Cativá,Colón,Colón ,Cativá,155.0,"G6-G7-G8-G9-G10 ago-2008
+G2-G4-G5 nov-08, G1 nov-2008, G3 ene-2009",Operación Comercial,Térmicas 
+6,"Generadora del Atlántico, S.A.",Termo Colón,Colón ,Colón ,Cativá,150.0,"G1 jul-09, G2 sep-09, 
+G3 dic-09
+C. COMB 1+1  nov-10, C.COMB 2+1  dic-10",Operación Comercial,Térmicas 
+7, Pan-Am Generating Limited,Panam  I  y II,Panamá Oeste ,Chorrera ,El Arado ,147.0,"Enero de 2000
+8 de febrero 2016, 3 Motores adicionales .",Operación Comercial,Térmicas 
+8,Gas Natural Atlantico  S. de R.L.,Costa Norte ,Colón,Colón,Cristóbal,381.0,22 de Julio de 2019,Operación Comercial,Térmicas 
+9,"Tropitermica, S.A.",Tropitermica ,Colón,Colón,Cristóbal,5.05,Por definir ,PRUEBA,Térmicas 
+10,Sparkle Power S.A.,Sparkle Power,Colón,Colón,Buena Vista ,49.2,Por definir ,PRUEBA,Térmicas 
+11,"Pedregal Power Company, S de R.L.",Central Termoelectrica Pacora ,Panama,Panamá,Pacora ,53.53,28 de enero de 2023,Operación Comercial,Térmicas 
+12,"Enel Renovable, S.R.L",Chiriquí,Chiriquí,San Lorenzo,San Juan ,9.0,03 de junio de 2015,Operación Comercial,Fotovoltaica 
+13,"Empresa de Generación Eléctrica , S.A. (EGESA)",Sarigua,Herrera,Parita,Puerto Limón,2.4,2019-10-04 00:00:00,Operación Comercial,Fotovoltaica 
+14,"Generación Solar,   S.A.",Zona Franca Albrook,Panamá,Panamá,Ancón,0.1,15 de febrero de 2017,Operación Comercial,Fotovoltaica 
+15,Divisa Solar  10 MW S.A.,Divisa Solar,Coclé,Aguadulce ,El Roble,9.99,19 de enero 2016,Operación Comercial,Fotovoltaica 
+16,"Farallon Solar 2, S.A.",Farrallon Solar 2,Coclé,Antón,Río Hato,4.8,07 de diciembre de 2016,Operación Comercial,Fotovoltaica 
+17,"Solar Azuero Venture, S.A.",Los Ángeles,Los Santos,Los Santos.,Los Angeles,9.522,30 de marzo de 2017,Operación Comercial,Fotovoltaica 
+18,"Solar Panamá Venture, S de R.L.",Paris,Herrera,Parita,París,8.5,30 de marzo de 2017,Operación Comercial,Fotovoltaica 
+19,"Solar Coclé Venture,  S de R. L. ",Coclé,Coclé,Penonomé,Coclé,8.5,30 de marzo de 2017,Operación Comercial,Fotovoltaica 
+20,"Empresa Nacional de Energía,  S.A.",Bugaba,Chiriquí,Bugaba,Sotová,2.56,Por definir ,PRUEBA,Fotovoltaica 
+21,"Hidroiberica , S.A. ",El Fraile Solar I ,Coclé,Natá ,Guzmán,0.48,04 de abril de 2017,Operación Comercial,Fotovoltaica 
+22,"Enel Renovable, S.R.L",Generadora Solar Caldera,Chiriquí,Barú,Progreso,5.45,Por definir ,PRUEBA,Fotovoltaica 
+23,"Llano Sánchez Solar Power, S.A.",Don Félix  (Etapa I y II ),Coclé,Aguadulce ,El Roble,9.99,22 de abril de 2022,Operación Comercial,Fotovoltaica 
+24,"Enel Renovable, S.R.L",Sol de David,Chiriquí,Barú,Progreso,9.99,Por definir ,PRUEBA,Fotovoltaica 
+25,"Enel Renovable, S.R.L",Milton Solar,Coclé,Aguadulce ,El Roble,10.0,Por definir ,PRUEBA,Fotovoltaica 
+26,"Enel Renovable, S.R.L",Vista Alegre,Coclé,Aguadulce ,El Roble,10.0,Por definir ,PRUEBA,Fotovoltaica 
+27,"Enel Renovable, S.R.L",Sol Real,Coclé,Aguadulce ,El Roble,10.0,Por definir ,PRUEBA,Fotovoltaica
+28,PSZ1 S.A.,El Espinal,Los Santos,Guararé,El Espinal,8.5,21 de agosto de 2017,Operación Comercial,Fotovoltaica
+29,"Panamá Solar 2, S. A.",Pocrí,Coclé,Aguadulce,Aguadulce,16.0,31 de enero de 2019,Operación Comercial,Fotovoltaica
+30," Concepto Solar, S.A.",Bejuco Solar ,Panama Oeste,Chame ,Bejuco ,0.96,22 de abril de 2019,Operación Comercial,Fotovoltaica
+31,Tecnisol I S.A.,Ikako,Chiriquí,David,David,10.0,Por definir ,PRUEBA,Fotovoltaica
+32,Tecnisol  III S.A.,Ikako II,Chiriquí,David,David,10.0,Por definir ,PRUEBA,Fotovoltaica
+33,Tecnisol II S.A.,IkaKo I,Chiriquí,David,David,10.0,Por definir ,PRUEBA,Fotovoltaica
+34,Tecnisol  IV S.A.,Ikako III,Chiriquí,David,David,10.0,Por definir ,PRUEBA,Fotovoltaica
+35,"Enel Renovable, S.R.L",Estrella Solar,Coclé,Aguadulce,Jagüito,5.66,Por definir ,PRUEBA,Fotovoltaica
+36,"Panasolar Generation, S.A.",Panasolar,Coclé,Aguadulce,El Roble ,9.9,27 de abril de 2021,Operación Comercial ,Fotovoltaica
+37,"Solpac Investment, S.A.",Pacora  II  ,Panamá,Chepo ,Pacora ,3.0,Por definir ,PRUEBA,Fotovoltaica
+38,"Solar Development Panamá, S.A.",Santiago Gen 1,Herrera,Pesé,Pesé,4.98,30 de abril de 2021,Operación Comercial ,Fotovoltaica
+39,"Photovoltaics Investment, Corp.",Ecosolar,Chiriquí ,Barú , Progreso ,10.0,14 de julio de 2021,Operación Comercial ,Fotovoltaica
+40,Photovoltaics Developments,Ecosolar 2,Chiriquí , Barú,Progreso ,10.0,14 de julio de 2021,Operación Comercial ,Fotovoltaica
+41,"Avanzalia Panamá, S.A.",Penonomé,Coclé ,Penonomé ,El Coco,120.0,2021-12-14 00:00:00,Operación Comercial,Fotovoltaica
+42,Electricidad Solar S.A.,Mendoza Solar,Panamá Oeste ,La Chorrera,Mendoza,3.0,24 de febrero de 2022,Operación Comercial,Fotovoltaica
+43,"Daconan Star Solar, S.A.","Daconan Solar Etapa  I, Etapa II  y 
+Etapa III .",Veraguas,Santiago  ,La Peña,5.61,"31 de enero de 2022 (II Fase)
+23 de febrero de 2022 (I Fase)
+Prueba  (III Fase) 
+",Operación Comercial (fase I y II),Fotovoltaica
+44,AES Panamá S.R.L,Mayorca Solar Etapa I,Los Santos,Pocrí,Paraíso ,9.97,2021-09-16 00:00:00,Operación Comercial,Fotovoltaica
+45,AES Panamá S.R.L,Pesé Solar ,Herrera,Pesé,Las Cabras ,9.97,2021-09-27 00:00:00,Operación Comercial,Fotovoltaica
+46,"Progreso Solar 20 MW, S.A.",La Esperanza Solar 20MW,Chiriquí,Barú,El Progreso,19.88,Por definir ,PRUEBA,Fotovoltaica
+47,Celsolar S.A.,Prudencia ,Chiriquí,David, Las Lomas,9.69,14 de enero de 2022,Operación Comercial,Fotovoltaica
+48,"Solar Boqueron, S.A.",Macanosolar I y II,Chiriquí ,Boqueron ,Paraiso,4.75,"20 de dic de 2021 (  I Fase)
+23 de marzo de 2023 (II Fase prueba)
+",Operación Comercial,Fotovoltaica
+49,"Jaguito Solar 10 MW, S.A.",Jagüito Solar,Coclé,Aguadulce,El Roble,9.88,Por definir ,PRUEBA,Fotovoltaica
+50,AES Panamá S.R.L,Caoba Solar ,Chiriquí , Boqueron, Boqueron,9.96,2022-06-13 00:00:00,Operación Comercial,Fotovoltaica
+51,AES Panamá S.R.L,Cedro Solar ,Chiriquí , Boqueron, Boqueron,9.96,2022-06-13 00:00:00,Operación Comercial,Fotovoltaica
+52,Mas PV Panama Inc,Sunrise MASPV 1,Panama Oeste,La Chorrera,Herrera,0.5,Por definir ,Prueba ,Fotovoltaica
+53,"Generadora Solar  Austral, S.A.",Madre Vieja ,Chiriquí,Barú,Progreso ,25.0,Por definir ,Prueba ,Fotovoltaica
+54,"Argentum Solar, S.A.",Río de Jesús,Veraguas,Río de Jesús ,Río de Jesús ,9.99,Por definir ,Prueba ,Fotovoltaica
+55,"Oro  Solar, S.A.",Oro  Solar,Herrera ,Parita ,Parita ,9.9,Por definir ,Prueba ,Fotovoltaica
+56,"Andreas Power Energy, Corp.",Andreas Power ,Chiriquí,San Felix ,San Felix ,0.99,Por definir ,Prueba ,Fotovoltaica
+57,Panasolar Green Energy Corp. ,Panasolar II,Coclé, Aguadulce, El Roble,5.0,Por definir ,Prueba ,Fotovoltaica
+58,Panasolar Green  Power  S.A.,Panasolar III,Coclé, Aguadulce, El Roble,5.0,Por definir ,Prueba ,Fotovoltaica
+59,"Farrallón Solar 2, S.A.",Farallón Solar 2,Coclé,Antón,Río Hato ,5.16,Por definir ,Prueba ,Fotovoltaica
+60,"Generadora Solar  El Puerto,  S.A.",Baco Solar ,Chiriqui,Barú,Progreso ,25.9,Por definir ,Prueba ,Fotovoltaica
+61,Photovoltaics Business Corp.,Ecosolar 3,Chiriqui,Barú,Progreso ,10.0,Por definir ,Prueba ,Fotovoltaica
+62,Photovoltaics Operations Corp.,Ecosolar 4,Chiriqui,Barú,Progreso ,10.0,Por definir ,Prueba ,Fotovoltaica
+63,Photovoltaics Venture Corp.,Ecosolar 5,Chiriqui,Barú,Progreso ,10.0,Por definir ,Prueba ,Fotovoltaica
+64,AES Panamá S.R.L,Nuevo Chagres Fase I,Coclé,Penonomé,Coclé y el Coco,55.0,26 de febrero de 2018,Operación Comercial,Eólicas
+65,"UEP Penonomé II, S. A.",Rosa de los Vientos (Etapa I y II),Coclé,Penonomé,Coclé y el Coco,102.5,19 de febrero de 2018,Operación Comercial,Eólicas
+66,"UEP Penonomé II, S. A.",Nuevo Chagres Fase 2  (Etapa I),Coclé,Penonomé,Coclé y el Coco,62.5,19 de febrero de 2018,Operación Comercial,Eólicas
+67,"UEP Penonomé II, S. A.",Portobello Bastillas (Etapa I),Coclé,Penonomé,Coclé y el Coco,32.5,19 de febrero de 2018,Operación Comercial,Eólicas
+68,"UEP Penonomé II, S. A.",Marañón,Coclé,Penonomé,Coclé y el Coco,17.5,19 de febrero de 2018,Operación Comercial,Eólicas
+69," Parque  Eólico Toabré, S.A.",Toabre,Cocle,Penonomé-Toabre ,Tolú,66.0,Por definir ,Prueba ,Eólicas
+70,"Urbalia Panamá, S.A.",Cerro Patacón,Panamá,Panamá,Ancón,8.1,Por definir ,PRUEBA,Biogas

@@ -1,0 +1,27 @@
+field,unit,description,role
+datetime,timestamp,Panama local timestamp (UTC-05:00).,ID
+split,categorical,"TRAIN, VALIDATION or TEST.",Partition
+window_id,categorical,168-hour evaluation-window identifier.,Partition
+horizon_hour,integer,"Hour within an evaluation window, 1-168; 0 for training rows.",Partition
+dayOfWeek,integer,"Saturday=1, Sunday=2, Monday=3, ..., Friday=7.",Feature
+weekend,binary,1 Saturday/Sunday; 0 otherwise.,Feature
+hourOfDay,integer,0-23.,Feature
+holiday,binary,1 holiday; 0 regular day.,Feature
+Holiday_ID,integer,Holiday identifier from supplied dataset.,Feature
+school,binary,1 school period; 0 vacation period.,Feature
+T2M_*,°C,2-meter temperature at the supplied station.,Feature
+QV2M_*,source unit,Relative humidity at 2 meters.,Feature
+TQL_*,l/m²,Liquid precipitation.,Feature
+W2M_*,m/s,2-meter wind speed.,Feature
+*_week_X-2_mwh,MWh,Demand at t-2 weeks (336 h).,Feature
+*_week_X-3_mwh,MWh,Demand at t-3 weeks (504 h).,Feature
+*_week_X-4_mwh,MWh,Demand at t-4 weeks (672 h).,Feature
+*_MA_X-4_mwh,MWh,"Mean of t-1, t-2, t-3 and t-4 weekly demand.",Feature
+*_wind_gen_mwh,MWh,Supplied modeled wind generation by zone.,Exogenous
+*_solar_gen_mwh,MWh,Supplied modeled solar generation by zone.,Exogenous
+total_vre_gen_mwh,MWh,Total modeled wind + solar generation.,Derived
+net_load_after_vre_mwh,MWh,National load minus modeled wind + solar generation.,Derived
+nat_demand,MWh,National electricity-load target.,Target
+load_tocumen_mwh,MWh,Modeled Tocumen-zone load target.,Target
+load_santiago_mwh,MWh,Modeled Santiago-zone load target.,Target
+load_david_mwh,MWh,Modeled David-zone load target.,Target

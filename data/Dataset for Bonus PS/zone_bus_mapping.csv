@@ -1,0 +1,4 @@
+zone,bus_id,load_column,wind_column,solar_column
+Tocumen,BUS_TOCUMEN,load_tocumen_mwh,tocumen_wind_gen_mwh,tocumen_solar_gen_mwh
+Santiago,BUS_SANTIAGO,load_santiago_mwh,santiago_wind_gen_mwh,santiago_solar_gen_mwh
+David,BUS_DAVID,load_david_mwh,david_wind_gen_mwh,david_solar_gen_mwh

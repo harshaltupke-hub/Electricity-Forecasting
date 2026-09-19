@@ -1,0 +1,7 @@
+parameter,value,unit,description,data_status
+minimum_load_served_fraction,0.999,fraction,At least 99.9% of forecast load must be served each hour.,competition_rule
+maximum_unserved_fraction,0.001,fraction,Equivalent maximum unserved-load fraction per hour.,competition_rule
+renewable_curtailment_penalty_usd_per_mwh,1.0,USD/MWh,Penalty coefficient for curtailed wind/solar in the optimization objective.,competition_assumption
+thermal_variable_cost_usd_per_mwh,110.0,USD/MWh,Reference marginal cost for thermal dispatch.,competition_assumption
+hydro_variable_cost_usd_per_mwh,12.0,USD/MWh,Reference marginal cost for hydro dispatch.,competition_assumption
+renewable_variable_cost_usd_per_mwh,0.0,USD/MWh,Reference marginal cost for wind/solar generation.,competition_assumption

@@ -1,0 +1,4 @@
+bus_id,zone,base_voltage_kv,role,data_status
+BUS_TOCUMEN,Tocumen,230,load_generation_bus,synthetic_competition_reference
+BUS_SANTIAGO,Santiago,230,load_generation_bus,synthetic_competition_reference
+BUS_DAVID,David,230,load_generation_bus,synthetic_competition_reference
